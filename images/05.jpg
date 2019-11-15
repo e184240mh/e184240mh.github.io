@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" lang="ja" xmlns:og="http://ogp.me/ns#"xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://gmpg.org/xfn/11">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="幸福実現党 山形県本部 代表 しろとり良太公式サイトです。「日本の未来にいのちをかける」">
+<meta name="keywords" content="衆議院選挙,衆院選2017,山形3区,幸福実現党,政党,政治,選挙,しろとり良太,城取良太">
+<!-- Facebook Opengraph -->
+    <meta property="og:url" content="http://shirotori-ryota.com"/>
+    <meta property="og:site_name" content="しろとり良太公式サイト │ 幸福実現党 山形県本部 代表 城取良太" />
+    <meta property="og:description" content="幸福実現党 山形県本部 代表 しろとり良太公式サイトです。「日本の未来にいのちをかける」" />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="http://shirotori-ryota.com/img/ogp.png" />
+
+<title>しろとり良太公式サイト │ 幸福実現党 山形県本部 代表 城取良太</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!--[if lt IE 9]><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><![endif]-->
+<!--[if IE 9]><!--><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script><!--<![endif]-->
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="stylesheet" href="/css/main.min.css?ver=20171002">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=20171002">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/hover.css/2.0.2/css/hover-min.css?ver=20171002">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.0.0/animate.min.css?ver=20171002">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/black/pace-theme-center-circle.css?ver=2017100220160114">
+<link rel="stylesheet" href="/css/colorbox.css?ver=20171002">
+<link rel="stylesheet" href="/css/home.css?ver=20171002">
+<link rel="stylesheet" href="/css/custom.css?ver=2017100220160114">
+<link rel='https://api.w.org/' href='http://shirotori-ryota.com/wp-json/' />
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="しろとり良太公式サイト │ 幸福実現党 山形県本部 代表 城取良太 Feed" href="http://shirotori-ryota.com/feed/">
+<script src="https://use.typekit.net/ofc5mhv.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+</head>
+<body class="home blog">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-75469662-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!--[if lte IE 9.0]>
+<div class="alert alert-warning">
+お使いのブラウザーは古いようです。<a href="http://browsehappy.com/">こちら</a>をご確認していただき適切にアップデートしてください。</div>
+<![endif]-->
+<div class="loading"><div id="loader"></div></div>
+<div class="outer">
+<div id="wrapper">
+<header class="banner navbar navbar-default navbar-static-top header-pc navbar-fixed-top hidden-xs" role="banner">
+<div class="containers">
+<div class="navbar-header">
+<section class="row">
+<div class="col-sm-4 col-md-4">
+<a class="navbar-brand navbar-brand-pc" href="http://shirotori-ryota.com/">
+<img src="/img/common/logo.svg" alt="しろとり良太" />
+</a>
+<!-- .col --></div>
+<div class="col-sm-8 col-md-8">
+<nav class="collapse navbar-collapse navbar-menu" role="navigation">
+<ul id="menu-%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc" class="nav nav-justified"><li class="menu-%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab"><a title="プロフィール" href="http://shirotori-ryota.com/profile/">プロフィール</a></li>
+<li class="menu-%e6%94%bf%e7%ad%96"><a title="政策" href="http://shirotori-ryota.com/policy/">政策</a></li>
+<li class="menu-%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b"><a title="お知らせ" href="http://shirotori-ryota.com/article/">お知らせ</a></li>
+<li class="menu-%e3%83%96%e3%83%ad%e3%82%b0"><a title="ブログ" target="_blank" href="http://ameblo.jp/shirotori-ryota/">ブログ</a></li>
+<li class="menu-%e5%bf%9c%e6%8f%b4%e3%81%97%e3%82%88%e3%81%86%ef%bc%81"><a title="応援しよう！" href="http://shirotori-ryota.com/booster/">応援しよう！</a></li>
+</ul></nav>
+<!-- .col --></div>
+<!-- .row --></section>
+
+<!-- .navbar-header --></div>
+<!-- .container --></div>
+</header><!-- PC ///////////////////////////////////////////////////////////////////////////////// -->
+
+<section class="top-catch-mov hidden-xs">
+<a id="bgndVideo" class="playerTop hidden-xs" data-property="{videoURL:'https://www.youtube.com/watch?v=wHeCZ853eoU',containment:'body',autoPlay:true, mute:true, startAt:0, opacity:1}"></a>
+<div class="pattern hidden-xs"></div>
+
+<div class="top-catch-container">
+<p class="font-bl font-en-400 margin-reset line-height-sm hidden-xs">Ryota Shirotori</p>
+<p class="font-md letter-spacing-sm">幸福実現党</p>
+<h1 class="font-sm letter-spacing-sm">しろとり良太 公式サイト</h1>
+<a href="https://www.youtube.com/embed/qvE8H4AEwEc?autoplay=1&rel=0" class="youtubePlay btn btn-default btn-lg btn-red font-bold hvr-icon-forward" title="">動画を見る</a>
+</div>
+<!-- .big-background --></section><!-- PC ///////////////////////////////////////////////////////////////////////////////// -->
+
+<header class="banner navbar navbar-default navbar-static-top header-sp navbar-fixed-top visible-xs" role="banner">
+<div class="container">
+<h1 class="float-left margin-reset"><a href="/" class="navbar-brand-sp" ><img src="/img/common/logo.svg" alt="しろとり良太" /></a></h1>
+<nav class="navbar-toggle-wrap sb-toggle-left">
+
+<a id="menu-button">
+<div class="menu-symbol">
+<div class="btn-oc"></div>
+<div class="btn-oc"></div>
+<!-- .symbol --></div>
+</a>
+
+<!-- .navbar-toggle-wrap --> </nav>
+<!-- .container --></div>
+</header><!-- SP ///////////////////////////////////////////////////////////////////////////////// -->
+<div class="clearfix"></div>
+
+
+<section class="top-catch paralla hidden-xs"><div class="pos-relative">
+<img src="/img/home/top-main.jpg?201710" alt="しろとり良太" class="w100 opacity0" />
+<img src="/img/home/catch-text01.svg?201710" alt="愛してるから、" class="catch-text01" />
+<img src="/img/home/catch-text02.svg?201710" alt="黙ってられない。" class="catch-text02" />
+<img src="/img/home/name.svg?201710" alt="しろとり良太" class="name" />
+<!-- .pos-relative --></div>
+<!-- .top-catch --></section>
+
+<section class="top-catch-sp visible-xs"><div class="pos-relative">
+<img src="/img/sp/home/top-main-sp.jpg?201710" alt="しろとり良太" class="w100 opacity0 top-main-sp" />
+<div class="top-catch-right">
+<img src="/img/sp/home/catch-text-sp.svg?201710" alt="愛してるから、黙ってられない。" class="catch-text-sp" />
+<img src="/img/sp/home/name-sp.svg?201710_3" alt="しろとり良太" class="name-sp" />
+<!-- .name --></div>
+<!-- .pos-relative --></div>
+<!-- .top-catch --></section>
+
+<section class="visible-xs padding-reset margin-reset">
+<div class="video-container" style="margin-bottom:-1px">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UvezeelwZs4" frameborder="0" allowfullscreen></iframe>
+</div>
+<!-- .visible-xs --></section>
+
+<section class="classification">
+<div class="row margin-reset padding-reset">
+<div class="col-sm-6 margin-reset padding-reset bg-black">
+<a href="/policy/" class="block-link scalebox">
+<img src="/img/home/top-policy.jpg" alt="" class="scale w100" id="box-height" />
+<div class="absolute-text">
+<h3 id="box-height-text" class="padding-top-sm text-center font-lg font-bold white-link line-height-reset">政策</h3>
+<p class="text-center font-md font-en white-link line-height-reset">Policy</p>
+</div>
+</a>
+<!-- .col --></div>
+<div class="col-sm-6 margin-reset padding-reset bg-black">
+<a href="/profile/" class="block-link scalebox">
+<img src="/img/home/top-prof.jpg" alt="" class="scale w100" id="box-height" />
+<div class="absolute-text">
+<h3 id="box-height-text" class="padding-top-sm text-center font-lg font-bold white-link line-height-reset">プロフィール</h3>
+<p class="text-center font-md font-en white-link line-height-reset">Profile</p>
+</div>
+</a>
+<!-- .col --></div>
+<!-- .row --></div>
+<!-- .classification --></section>
+
+<section class="bg-accent"><section class="timeline flip_wrap flip_wrap-sp bg-white">
+<div class="container-md">
+<div class="row margin-reset padding-reset">
+<div class="col-sm-4 timeline-container-sp">
+<div class="timeline-container">
+<a class="twitter-timeline" href="https://twitter.com/ryotashirotori" data-widget-id="711471983246979074" height="400">@ryotashirotoriさんのツイート</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!-- .timeline-container --></div>
+<!-- .col --></div>
+<div class="col-sm-4 timeline-container-sp">
+<div class="timeline-container">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-page" data-href="https://www.facebook.com/shirotori.ryota" data-tabs="timeline" data-width="800" data-height="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shirotori.ryota"><a href="https://www.facebook.com/shirotori.ryota">しろとり良太</a></blockquote></div></div>
+<!-- .timeline-container --></div>
+<!-- .col --></div>
+<div class="col-sm-4 timeline-container-sp">
+<div class="video-container">
+<div class="ytcTextBox">
+<div class="ytcMovBox">
+<div class="ytp"></div>
+</div>
+<!-- ytcWrap --></div>
+<!-- .video-container --></div>
+<h3 class="color-black">しろとり良太のYouTube最新動画</h3>
+<p class="margin-bottom-xs">しろとり良太のYouTube公式チャンネル</p>
+<p>登録はこちらから</p>
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-ytsubscribe" data-channelid="UChlAyyxW6xJpihbpr3Eh_LA" data-layout="default" data-count="default"></div>
+<!-- .col --></div>
+<!-- .row --></div>
+<!-- .container --></div>
+<!-- .timeline --></section>
+<!-- .bg-color --></section>
+
+
+<section class="bg-accent">
+<section class="topics bg-lightgray padding-top-lg padding-bottom-lg flip_wrap flip_wrap-sp">
+<div class="container-md">
+<h2 class="text-center color-black margin-bottom-md font-bold">お知らせ</h2>
+<div class="row margin-reset padding-reset">
+<div class="border-bottom-gray visible-xs margin-left-sm margin-right-sm"></div>
+<div class="col-sm-4">
+<article class="post-40 post type-post status-publish format-standard hentry category-info">
+<a href="/2016/40/" class="scalebox"><header>
+<div class="date black-link margin-bottom-xs"><time>2016年05月06日</time></div>
+<h4 class="title font-bold line-height-sm link-color">しろとり良太の紹介動画を公開</h4>
+</header>
+</a>
+</article>
+<!-- .col --></div>
+<div class="col-sm-4">
+<article class="post-36 post type-post status-publish format-standard has-post-thumbnail hentry category-info">
+<a href="/2016/36/" class="scalebox"><header>
+<div class="date black-link margin-bottom-xs"><time>2016年04月06日</time></div>
+<h4 class="title font-bold line-height-sm link-color">しろとり良太公式Facebookページを公開致しました！</h4>
+</header>
+</a>
+</article>
+<!-- .col --></div>
+<div class="col-sm-4">
+<article class="post-24 post type-post status-publish format-standard hentry category-info">
+<a href="/2016/24/" class="scalebox"><header>
+<div class="date black-link margin-bottom-xs"><time>2016年03月23日</time></div>
+<h4 class="title font-bold line-height-sm link-color">しろとり良太オフィシャルサイト、オープンいたしました！</h4>
+</header>
+</a>
+</article>
+<!-- .col --></div>
+<!-- .row --></div>
+<div class="row margin-top-lg margin-bottom-md">
+<div class="col-sm-12 col-md-6 col-md-offset-3 text-center">
+<a href="/article/" title="" class="btn btn-default btn-lg btn-red font-bold hvr-icon-forward">お知らせ記事一覧はこちら</a>
+<!-- .col --></div>
+<!-- .row --></div>
+<!-- .container --></div>
+<!-- .topics --></section>
+<!-- .bg-color --></section>
+
+
+
+<div class="wrap" role="document">
+<div class="row">
+<div class="col-sm-12">
+<div class="content row">
+<main class="main col-sm-12" role="main">
+
+</main><!-- /.main -->
+</div><!-- /.content -->
+<!-- .col --></div>
+<!-- .row --></div>
+</div><!-- /.wrap -->
+
+
+
+
+<section class="footer-nav padding-top-sm padding-bottom-md visible-xs"><div class="container">
+<div class="row">
+<div class="col-sm-12">
+<ul id="menu-" class="">
+<ul id="menu-%e3%83%89%e3%83%ad%e3%82%a2%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%af" class="footer-nav"><li class="menu-%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab"><a href="http://shirotori-ryota.com/profile/">プロフィール</a></li>
+<li class="menu-%e6%94%bf%e7%ad%96"><a href="http://shirotori-ryota.com/policy/">政策</a></li>
+<li class="menu-%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b"><a href="http://shirotori-ryota.com/article/">お知らせ</a></li>
+<li class="menu-%e3%83%96%e3%83%ad%e3%82%b0"><a target="_blank" href="http://ameblo.jp/shirotori-ryota/">ブログ</a></li>
+<li class="menu-%e5%bf%9c%e6%8f%b4%e3%81%97%e3%82%88%e3%81%86%ef%bc%81"><a href="http://shirotori-ryota.com/booster/">応援しよう！</a></li>
+</ul></ul>
+<!-- .col --></div>
+<!-- .row --></div>
+<!-- .container --></div>
+<!-- .footer-nav --></section>
+
+<section class="footer-social padding-top-md padding-bottom-sm bg-accent hidden-xs"><div class="container-lg">
+<div class="row">
+<div class="col-sm-12">
+<span class="btn btn-social margin-left-sm margin-right-sm"><a href="https://twitter.com/ryotashirotori" rel="nofollow" target="blank"><span class="social-icon tw"><i class="fa fa-twitter-square"></i></span> Twitter</a></span>
+<span class="btn btn-social margin-left-sm margin-right-sm"><a href="https://www.facebook.com/shirotori.ryota" rel="nofollow" target="blank"><span class="social-icon fb"><i class="fa fa-facebook-square"></i></span> Facebook</a></span>
+<span class="btn btn-social margin-left-sm margin-right-sm"><a href="https://www.youtube.com/channel/UChlAyyxW6xJpihbpr3Eh_LA" rel="nofollow" target="blank"><span class="social-icon ty"><i class="fa fa-youtube-square"></i></span> YouTube</a></span>
+<span class="btn btn-social margin-left-sm margin-right-sm font-bold pull-right border-white"><a href="http://hr-party.jp/" rel="nofollow" target="blank">幸福実現党</a></span>
+<!-- .col --></div>
+<!-- .row --></div>
+<!-- .container --></div>
+<!-- .footer-social --></section>
+
+<section class="footer-social-sp padding-top-md padding-bottom-sm bg-accent visible-xs"><div class="container">
+<div class="row">
+<div class="col-sm-12 text-center">
+<a href="https://twitter.com/ryotashirotori" rel="nofollow" target="blank"><span class="social-icon tw"><i class="fa fa-twitter-square"></i></span></a>
+<a href="https://www.facebook.com/shirotori.ryota" rel="nofollow" target="blank"><span class="social-icon fb"><i class="fa fa-facebook-square"></i></span></a>
+<a href="https://www.youtube.com/channel/UChlAyyxW6xJpihbpr3Eh_LA" rel="nofollow" target="blank"><span class="social-icon ty"><i class="fa fa-youtube-square"></i></span></a>
+<a href="http://hr-party.jp/" rel="nofollow" target="blank">幸福実現党</a>
+<!-- .col --></div>
+<!-- .row --></div>
+<!-- .container --></div>
+<!-- .footer-social --></section>
+
+<footer class="content-info" role="contentinfo">
+<section class="bg-copy">
+<div class="container-lg">
+<div class="row">
+<div class="col-lg-12">
+<p class="text-right color-white padding-top-sm padding-right-sm font-xs">Copyright &copy; Ryota Shirotori All rights reserved</p>
+<!-- .col --></div>
+<!-- .row --></div>
+<!-- .container --></div>
+<!-- .bg-copy --></section>
+</footer>
+
+<script type='text/javascript' src='/js/scripts.min.js?ver=be373268f9b8ecda7c3a45154676e637'></script>
+<script type='text/javascript' src='/js/custom.min.js?ver=be373268f9b8ecda7c3a45154676e637'></script>
+<script type='text/javascript' src='/js/home.min.js'></script>
+<script type='text/javascript' src='/js/jquery.colorbox-min.js'></script>
+<script type='text/javascript' src='/js/sr-mov.min.js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/2.9.13/jquery.mb.YTPlayer.min.js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js'></script>
+<script type='text/javascript' src='/post/wp-includes/js/wp-embed.min.js?ver=4.7.15'></script>
+<!--#wrapper --></div>
+<div id="drawer">
+<ul id="menu-" class="">
+<h3 class="margin-bottom-sm font-en">MENU</h3>
+<ul id="menu-%e3%83%89%e3%83%ad%e3%82%a2%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%af-1" class="side-nav"><li class="menu-%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab"><a href="http://shirotori-ryota.com/profile/">プロフィール</a></li>
+<li class="menu-%e6%94%bf%e7%ad%96"><a href="http://shirotori-ryota.com/policy/">政策</a></li>
+<li class="menu-%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b"><a href="http://shirotori-ryota.com/article/">お知らせ</a></li>
+<li class="menu-%e3%83%96%e3%83%ad%e3%82%b0"><a target="_blank" href="http://ameblo.jp/shirotori-ryota/">ブログ</a></li>
+<li class="menu-%e5%bf%9c%e6%8f%b4%e3%81%97%e3%82%88%e3%81%86%ef%bc%81"><a href="http://shirotori-ryota.com/booster/">応援しよう！</a></li>
+</ul></ul>
+</div>
+
+<!-- .outer --></div>
+
+<script src="https://use.typekit.net/jij4nbk.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+</body>
+</html>
