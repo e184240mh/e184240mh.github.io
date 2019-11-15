@@ -1,0 +1,37 @@
+
+body{
+    background-image: url("../images/03.jpg");
+    background-repeat: round;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1{
+    color:darkorange;
+    font-family: "normal";
+    text-align:center;
+    background-color: aquamarine;
+    font-size: 40px;
+}
+
+h2{
+     color:dimgrey;
+    font-family: "Impact";
+    text-align:center;
+    background-color: aquamarine;
+    font-size: 32px;
+}
+
+h3{
+    color:darkorange;
+    font-size: 22px; 
+}
+
+h4{
+    color: gold;
+}
+
+
+ol{
+    background-image: url("../images/06.jpg");
+}
