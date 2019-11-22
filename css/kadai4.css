@@ -1,0 +1,30 @@
+h1{
+    color:skyblue;
+    font-family: "normal";
+    text-align:center;
+    background-color: azure;
+    font-size: 40px;
+}
+h2{
+    color:orange;
+    font-family: "normal";
+    text-align:center;
+    background-color: black;
+    font-size: 27px;
+}
+h2#matuo{
+    
+    color:black;
+    font-family: "normal";
+    text-align:center;
+    background-color: whitesmoke;
+    font-size: 27px;
+}
+h1#matuo{
+    
+    color:green;
+    font-family: "normal";
+    text-align:center;
+    background-color: tomato;
+    font-size: 40px;
+}
