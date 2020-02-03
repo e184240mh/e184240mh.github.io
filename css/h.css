@@ -1,0 +1,72 @@
+div.title{
+    width: 910px;
+    height: 60px;
+    background-color: coral;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Impact";
+    margin-bottom: 13px;
+}
+
+div.menu{
+    margin-top: 15px;
+    
+}
+div.menu1{ 
+    display: inline-flex;
+    width: 440opx;
+    height: 200px;
+    background-color: black;
+   
+    font-size: 30px;
+    font-family: "Impact";
+    padding-top: 10px
+}
+div.menu2{ border:6px dotted black;
+     display: inline-flex;
+    width: 440px;
+    height: 200px;
+    background-color: orangered;
+   
+    font-size: 30px;
+    font-family: "Impact";
+    padding-top: 10px
+}
+div.menu3{ border:6px dotted black;
+    display: table;
+    width: 900px;
+    height: 130px;
+    background-color: coral;
+   margin-top: 7px;
+    font-size: 20px;
+    font-family: "Impact";
+    padding-top: 10px
+}
+
+
+div.r{
+    margin-top: 100px;
+    width: 910PX;
+    height: 40px;
+   
+    font-family:serif;
+    font-size: 20PX;
+    background-color: darkgray
+}
+
+
+
+
+div.footer{
+    margin-top: 20px;
+    width: 910px;
+    height: 40px;
+    background-color: azure;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Impact";
+}
+
+
+
+S
