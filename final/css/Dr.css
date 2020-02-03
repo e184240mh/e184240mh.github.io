@@ -14,8 +14,7 @@ div.menu{
 }
 div.menu1{ 
     display: inline-flex;
-    width: 440opx;
-    height: 200px;
+    
     background-color: orange;
    
     font-size: 30px;
@@ -44,7 +43,7 @@ div.menu3{ border:6px dotted green;
 }
 
 
-div.KO{
+div.top{
     margin-top: 100px;
     width: 910PX;
     height: 40px;
