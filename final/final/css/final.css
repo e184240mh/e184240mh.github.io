@@ -1,0 +1,102 @@
+div.title{
+    width: 800px;
+    height: 60px;
+    background-color: ghostwhite;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Impact";
+    margin-bottom: 10
+        px;
+}
+
+div.menu{
+    margin-top: 20px;
+    width: 800px;
+    height: 444px;
+}
+div.menu1{ 
+    border:6px dotted green;
+    display: inline-flex;
+    width: 378px;
+    height: 240px;
+    background-color: orange;
+   
+    font-size: 30px;
+    font-family: "Impact";
+    padding-top: 10px;
+    margin-bottom: 3px;
+}
+div.menu2{ 
+    border:6px  yellow;
+     display: inline-flex;
+    width: 400px;
+    height: 250px;
+    background-color: red;
+   
+    font-size: 30px;
+    font-family: "Impact";
+    padding-top: 10px
+}
+div.menu3{ 
+    display: inline-flex;
+   width:400px;
+    height: 200px;
+    background-color: coral;
+   
+    font-size: 30px;
+    font-family: "Impact";
+    padding-top: 10px;
+    margin-bottom: 3px;
+}
+div.menu4{ 
+    border:6px dotted ;
+    display: inline-flex;
+    width: 388px;
+    height: 200px;
+    background-color: magenta;
+   
+    font-size: 30px;
+    font-family: "Impact";
+    padding-top: 10px;
+    margin-bottom: 3px;
+}
+div.images{
+    vertical-align: top;
+    display: inline-block;
+    margin-bottom: 300PX;
+}
+
+div.image1{
+    width: 700px;
+    height: 300px;
+    
+    font-family:serif;
+    font-size: 30PX;
+    background-color: salmon;
+    margin-bottom: 13px;
+}
+
+div.artcle{
+    width: 1000px;
+    height: 100px;
+    background-color:bisque;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Impact";
+    margin-bottom: 10px;
+    
+}
+div.footer{
+     margin-top: 50px;
+    width: 800px;
+    height: 30px;
+    background-color:whitesmoke;
+    text-align: center;
+    font-size: 20px;
+   
+}
+
+
+p{
+    font-size: 20px;
+}
